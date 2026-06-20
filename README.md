@@ -9,7 +9,7 @@ prototype to production in Python and TypeScript on GCP.
 
 🔭 **Building:** agentic AI, RAG, and applied-AI products in finance, data, and automation
 💬 **Ask me about:** LLM agents and orchestration, RAG, evaluation loops, prompt/context engineering, 0-to-1 product, data pipelines
-📍 Vancouver, BC, Canada · open to relocation
+📍 Canada · open to relocation
 
 ### 🚀 What I build
 
