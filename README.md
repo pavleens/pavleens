@@ -2,10 +2,7 @@
 
 **AI & Product Engineer · UBC MBA**
 
-I build production AI products end to end: multi-agent systems, RAG pipelines, and the
-evaluation and guardrail work that makes them reliable. As a startup co-founder, I shipped
-a live consumer AI app and a B2B multi-agent intelligence platform. Comfortable from
-prototype to production in Python and TypeScript on GCP.
+I build production AI products end to end: multi-agent systems, RAG pipelines, and the evaluation and guardrail work that makes them reliable. As a startup co-founder, I shipped a live consumer AI app and a B2B multi-agent intelligence platform. Comfortable from prototype to production, and from applied research to algorithms (Bayesian inference, dynamic programming), in Python and TypeScript on GCP.
 
 🔭 **Building:** agentic AI, RAG, and applied-AI products in finance, data, and automation
 💬 **Ask me about:** LLM agents and orchestration, RAG, evaluation loops, prompt/context engineering, 0-to-1 product, data pipelines
