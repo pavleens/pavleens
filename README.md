@@ -17,10 +17,13 @@ prototype to production in Python and TypeScript on GCP.
 - **[Gist Intelligence](https://gistintelligence.com/)** — a multi-agent AI workspace (search, Q&A, retrieval, agents) for financial research.
 - **Authored technical manuscript** — a multi-agent architecture for real-time intelligence (94 ms median latency, 89% eval accuracy). [Read it](https://drive.google.com/file/d/1O8PgTnqfFDPKyAm7rUYVXacunHYF5vWc).
 
-### 🧩 Open source
 
+### 🧩 Open source & engineering
+
+- **[morty-express-dp-solver](https://github.com/pavleens/morty-express-dp-solver)** — a production-grade Python solver for a probabilistic routing-optimization problem: **Bayesian phase inference + exact dynamic programming** reaching ~88% expected survival (86.7% verified on the live API), with a retry-safe API client, an offline simulator, design/math docs, and 33 pytest tests.
 - **[hive](https://github.com/pavleens/hive)** — contributor to an open-source, outcome-driven agent-development framework (Apache 2.0).
 - **[agentic-movie-recommender](https://github.com/pavleens/agentic-movie-recommender)** — an LLM-powered recommender API (FastAPI + OpenAI structured outputs), open-sourced as a course starter and forked 10x.
+
 
 ### 🛠️ Tech
 
