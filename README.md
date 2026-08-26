@@ -14,17 +14,16 @@ I build production AI products end to end: multi-agent systems, RAG pipelines, a
 - **[Gist Intelligence](https://gistintelligence.com/)** — a multi-agent AI workspace (search, Q&A, retrieval, agents) for financial research.
 - **Authored technical manuscript** — a multi-agent architecture for real-time intelligence (94 ms median latency, 89% eval accuracy). [Read it](https://drive.google.com/file/d/1O8PgTnqfFDPKyAm7rUYVXacunHYF5vWc).
 
-
 ### 🧩 Open source & engineering
 
 - **[morty-express-dp-solver](https://github.com/pavleens/morty-express-dp-solver)** — a production-grade Python solver for a probabilistic routing-optimization problem: **Bayesian phase inference + exact dynamic programming** reaching ~88% expected survival (86.7% verified on the live API), with a retry-safe API client, an offline simulator, design/math docs, and 33 pytest tests.
+- **[identity-aware-llm-gateway](https://github.com/pavleens/identity-aware-llm-gateway)** — an identity-aware **LLM gateway in Go**: a reverse proxy that enforces per-identity model and rate-limit policy with audit logging, standard-library only and fully tested.
 - **[hive](https://github.com/pavleens/hive)** — contributor to an open-source, outcome-driven agent-development framework (Apache 2.0).
 - **[agentic-movie-recommender](https://github.com/pavleens/agentic-movie-recommender)** — an LLM-powered recommender API (FastAPI + OpenAI structured outputs), open-sourced as a course starter and forked 10x.
 
-
 ### 🛠️ Tech
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
