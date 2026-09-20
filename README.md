@@ -16,6 +16,7 @@ I build production AI products end to end: multi-agent systems, RAG pipelines, a
 
 ### 🧩 Open source & engineering
 
+- **[ai-legacy-software-automation](https://github.com/pavleens/ai-legacy-software-automation)** — an applied-AI system that discovers workflows in legacy software without usable APIs, compiles them into stable semantic targets, and replays them deterministically with human handoff, privacy-safe evidence, and 70 automated tests. Includes a recorded AI discovery demo.
 - **[morty-express-dp-solver](https://github.com/pavleens/morty-express-dp-solver)** — a production-grade Python solver for a probabilistic routing-optimization problem: **Bayesian phase inference + exact dynamic programming** reaching ~88% expected survival (86.7% verified on the live API), with a retry-safe API client, an offline simulator, design/math docs, and 33 pytest tests.
 - **[identity-aware-llm-gateway](https://github.com/pavleens/identity-aware-llm-gateway)** — an identity-aware **LLM gateway in Go**: a reverse proxy that enforces per-identity model and rate-limit policy with audit logging, standard-library only and fully tested.
 - **[hive](https://github.com/pavleens/hive)** — contributor to an open-source, outcome-driven agent-development framework (Apache 2.0).
@@ -30,6 +31,10 @@ I build production AI products end to end: multi-agent systems, RAG pipelines, a
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🎓 Certification
+
+- **Google Cloud Certified Professional Cloud Architect** — [Verify credential](https://www.credly.com/badges/147f7056-46e4-4d12-b300-d79e3c4ba399)
 
 ### 🌐 Connect
 
